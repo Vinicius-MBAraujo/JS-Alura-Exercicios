@@ -1,1 +1,1 @@
-<img src=”Ex1.jpg”>
+<img src=Ex1.jpg>
