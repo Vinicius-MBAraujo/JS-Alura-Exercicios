@@ -1,1 +1,1 @@
-![Exercício 1](Exercicio1/Ex1.jpg)
+<img src=”Ex1.jpg”>
